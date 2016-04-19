@@ -1,0 +1,30 @@
+L1	EMILIN1,EMILIN2,MTMR6,MTMR9	GO:0016311 dephosphorylation;GO:0005201 extracellular matrix structural constituent
+L2	PDHA1,PDK1,PDK2,PDK4,PDP1	Reactome:Regulation of pyruvate dehydrogenase (PDH) complex
+L3	CRY2,PER1,PER2,PER3	KEGG:circadian rhythm
+L4	MED13,MED13L,MED23,PUM2	Reactome:PPARA activates gene expression
+L5	CEP72,DUT,SPATA2,ZNF417	KEGG:pyrimidine metabolism
+L6	BRIX1,CNOT4,SAE1,UBA2,UBE2E3,UBOX5	GO:0016874 ligase activity
+L7	BRD2,CBX4,E2F2,E2F6,EPC1,EZH1,RING1,RYBP,SETD8	GO:0016568 chromatin modification
+L8	CHST15,NIP7,NOL8,RRAGA,RRAGB,RRAGD	WikiPathways:TOR Signaling
+L9	ADAMTSL4,CIAPIN1,DNPEP,GLRX3,NADK	KEGG nicotinate and nicotinamide metabolism;GO:0051540 metal cluster binding
+L10	ASAH1,DIABLO,HTRA2,NGFRAP1,SMPD1	GO:0006672 ceramide metabolic process;GO:0043280 positive regulation of cysteine-type endopeptidase activity involved in apoptotic process
+L11	DRG1,DRG2,LYL1,RWDD1	WikiPathways:Hematopoietic Stem Cell Differentiation;GO:0005525 GTP binding
+L12	GIGYF2,NFAT5,RBM12,TBC1D4	KEGG:vegf signaling pathway;Reactome:Membrane Trafficking
+L13	MED11,MED17,MED22,MED30	Reactome:PPARA activates gene expression
+L14	ANXA3,EMG1,HIVEP1,NAT6	KEGG:ethylbenzene degradation
+L15	JAG1,MFNG,NOTCH2,POFUT1	Reactome:Signaling by NOTCH
+L16	ADAM10,EFNA1,EFNA3,EFNA4,EPHA4,SH3D19,SH3YL1	Reactome:EPH-ephrin mediated repulsion of cells
+L17	CDCA3,CTDSP1,CTDSP2,SNAI1	GO:0004722 protein serine/threonine phosphatase activity;KEGG:adherens junction
+L18	DPH3,EXOC2,EXOC3,SERGEF	Reactome:Membrane Trafficking;GO:0050709:negative regulation of protein secretion
+L19	CALCOCO1,CTNNBL1,CYTH3,CYTIP,FOSL1,GRASP,IPP	GO:0030155:regulation of cell adhesion;WikiPathways:Wnt Signaling Pathway
+L20	FLT1,NRP1,NRP2,PGF,SEMA3B,TNXB,VEGFB	Reactome:Signaling by VEGF
+L21	CDK18,SEC23A,SEC23B,SEC24B,SEC24C,SEC24D	Reactome:ER to Golgi Transport
+L22	ARCN1,COPB2,COPG2,SACM1L	GO:0006890:retrograde vesicle-mediated transport, Golgi to ER
+L23	ALDH7A1,DDX42,RECQL5,TOP3A	GO:0071103:DNA conformation change
+L24	DEK,SRRM1,SRRM2,ZIK1	GO:0008380:RNA splicing
+L25	CHD4,IKZF2,IKZF4,IKZF5	GO:0046982:protein heterodimerization activity;GO:0051225:spindle assembly
+L26	LDLR,LDLRAP1,LRPAP1,PPM1G,SNX17	GO:0006898:receptor-mediated endocytosis
+L27	LSM10,LSM11,SLBP,TRIM41,ZNF473	Reactome:Processing of Capped Intronless Pre-mRNA
+L28	ARL6,ARL6IP5,ARL6IP6,ATL2	GO:0005525:GTP binding
+L29	ARL2,DEXI,TBCD,TBCE	Reactome:Post-chaperonin tubulin folding pathway
+L30	H3F3A,PARP10,SS18,SUPT16H	Reactome:Transcription

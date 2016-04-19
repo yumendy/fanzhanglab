@@ -1,0 +1,98 @@
+K1	CASC5,DSN1,KNTC1,MIS12,NSL1,ZW10,ZWILCH,ZWINT	Reactome:Resolution of Sister Chromatid Cohesion
+K2	MED11,MED17,MED18,MED20,MED22,MED27,MED29,USP47,USP49	PPARA activates gene expression
+K3	EXT1,EXT2,TLR6,TRAP1	GO:0046982:protein heterodimerization activity
+K4	ARFGEF1,ARFGEF2,C1QC,FKBP2,LRRC41,MYO9B,PTX3	GO:0051056:regulation of small GTPase mediated signal transduction
+K5	ACAA2,ACOX1,EHHADH,SCP2	KEGG:fatty acid metabolism
+K6	ANXA3,RAB11B,RAB11FIP2,RAB11FIP5,CAPZB,ITSN2,MBD5,MYO5B,NAPG,RPL23,SOD2,BCCIP,EMG1,GNE,HIVEP1,KIAA1191,KIAA1549,MAP3K9,NAT6,NOL12,RAB11FIP4,SAP18,SEMA6A,SH3RF1,SLC25A38,SYNJ2,TROVE2,ZSCAN16	GO:0045055:regulated secretory pathway;GO:0070062:extracellular vesicular exosome
+K7	BGLAP,CSTA,CSTB,CTSH,GGCX	GO:0052548:regulation of endopeptidase activity
+K8	RAD21,STAG1,STAG2,WAPAL	Reactome:Cohesin Loading onto Chromatin
+K9	RELL1,RELL2,RELT,SLC12A2,SLC12A6,STK39	GO:0006970:response to osmotic stress;GO:0045785:positive regulation of cell adhesion 
+K10	EMILIN1,EMILIN2,MTMR6,MTMR7,MTMR9	GO:0016311:dephosphorylation;GO:0005201 extracellular matrix structural constituent
+K11	GORAB,PLAGL2,RCHY1,SCYL1	GO:0005794:Golgi apparatus
+K12	ANAPC10,ANAPC11,ANAPC7,BUB1B,CDC16,CDC20,CDC23,UBE2C	KEGG:ubiquitin mediated proteolysis
+K13	ARHGEF12,LPAR1,LPAR2,PLXNB2	GO:0051056:regulation of small GTPase mediated signal transduction
+K14	DERL1,DERL2,DERL3,MFI2	GO:0030433:ER-associated ubiquitin-dependent protein catabolic process
+K15	BNIP3,BNIP3L,DKC1,HK1,LYPLA2,PKMYT1,SCMH1,STEAP3,TMEM11,VDAC2	GO:0007005:mitochondrion organization
+K16	ABCD1,ABCD3,COL6A2,PEX19	Reactome:ABCA transporters in lipid homeostasis
+K17	HCST,KLRK1,MICA,MICB	KEGG:natural killer cell mediated cytotoxicity
+K18	BUB3,CENPA,CIT,DIAPH1,PACS2,PARP2,PKD2,RHOC,TMOD2,TPM1,TPM2,XPO6	GO:0003779:actin binding;GO:0017016:Ras GTPase binding
+K19	FHOD1,LNPEP,TNKS,TNKS1BP1,TNKS2	GO:0000209:protein polyubiquitination
+K20	ACCS,FBF1,IFT20,IFT57,KIF3B	Reactome:Assembly of the primary cilium
+K21	ANXA5,FAM101A,FDFT1,LPP,SCRIB,SHPRH,TJP2,TMEM43	Reactome:Signaling by Hippo;KEGG:terpenoid biosynthesis
+K22	CCDC7,CIAO1,FAM96A,FAM96B	GO:0007059:chromosome segregation
+K23	COG1,COG2,COG3,COG4,COG5,COG7	GO:0048193:Golgi vesicle transport
+K24	ADA,ADORA2B,NEO1,NTN1	Reactome:Netrin-1 signaling;GO:0050727:regulation of inflammatory response
+K25	HELZ,POLR2B,POLR2E,POLR2H,POLR2I,POLR2K,SMYD3	KEGG:rna polymerase
+K26	ACHE,ATXN7L2,BMP1,COL5A1,COL6A1,COLQ,LAMB1,LGALS3BP,PPP2R3A,TWSG1	Reactome:Extracellular matrix organization;GO:0042135:neurotransmitter catabolic process
+K27	NAA10,NAA15,NAA16,RPL26	GO:0006474:N-terminal protein amino acid acetylation
+K28	DICER1,PIWIL4,PRKRA,TARBP2	Reactome:Regulatory RNA pathways
+K29	ATOX1,ATP7A,ATP7B,FKBP4,UNC13B,PEX14,SPTBN1,SPTBN2,DCTN4,ACTR1A,GLMN,NR3C2,PDZD11,PEX7,PHYH,STX2	GO:0006825:copper ion transport;GO:0043254:regulation of protein complex assembly
+K30	CSDE1,HJURP,ITM2C,PCSK7,STT3A	GO:0005794:Golgi apparatus
+K31	CNTF,CTF1,ERAP1,IL6R,IL6ST,LIF,LIFR,OSM	KEGG:jak stat signaling pathway
+K32	EIF4A1,EIF4G3,PAIP1,PAIP2,UBR5	WikiPathways:Translation Factors
+K33	C17orf70,F3,FANCB,FANCL	GO:0006281:DNA repair;GO:0010640:regulation of platelet-derived growth factor receptor signaling pathway
+K34	EPM2A,EPM2AIP1,HIRA,NFU1	Reactome:Glycogen synthesis
+K35	POP1,POP4,POP5,POP7,RPP14,RPP21,RPP25,RPP30,RPP38,RPP40	GO:0090502:RNA phosphodiester bond hydrolysis, endonucleolytic
+K36	LSM10,LSM11,SLBP,TRIM41,ZNF202,ZNF473	Reactome:SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs
+K37	ATG10,ATG12,ATG16L1,ATG5	WikiPathways:Senescence and Autophagy
+K38	DCAF8,FAM60A,GTPBP3,PARP11,PRPF3,SART3	GO:0000244:spliceosomal tri-snRNP complex assembly
+K39	ASAH1,CORO2B,SMPD1,TSC22D1	KEGG:sphingolipid metabolism
+K40	HMGCR,INSIG1,INSIG2,PGRMC1,SCAP,STARD13,TAX1BP1	Reactome:Regulation of cholesterol biosynthesis by SREBP (SREBF)
+K41	BTBD3,CUL7,FBXW8,PLXNB3,SPOCK2	GO:0031344:regulation of cell projection organization
+K42	DHPS,DOHH,EIF5A,EIF5A2,XPO4	Reactome:Gamma carboxylation, hypusine formation and arylsulfatase activation
+K43	HMG20B,HNRNPA2B1,HNRNPL,KIF4A,MXI1,PHF21A,RCOR1,REST,SIN3B	Reactome:HDACs deacetylate histones;GO:0003714:transcription corepressor activity
+K44	PPHLN1,TOMM20,TOMM22,TOMM40,TOMM7	Reactome:Mitochondrial protein import
+K45	AGPS,C2orf44,CBR3,GNPAT,RAB35	Reactome:Peroxisomal lipid metabolism
+K46	CDC42EP4,G2E3,LST1,WDR6	GO:0008360:regulation of cell shape
+K47	AGGF1,BAG4,TNFRSF12A,TNFRSF25,TNFSF12	GO:0045765:regulation of angiogenesis;GO:0071356:cellular response to tumor necrosis factor
+K48	ATF6,ATF6B,MBTPS1,MBTPS2	Reactome:ATF6-alpha activates chaperones
+K49	CHKA,FAM50B,HIST2H2AA3,KPNA3,RANBP1,RANBP3,RANGRF,RCC1,UBE2H	GO:0043547:positive regulation of GTPase activity
+K50	C1D,GOLGA3,GOLGA7,MORF4L1,MRFAP1,MRFAP1L1,PBXIP1,PHF12,SUN1,TSN,TSNAX	Reactome:Small interfering RNA (siRNA) biogenesis;GO:0003714:transcription corepressor activity
+K51	CDC42BPA,LIMK2,MYL9,PPP1R12C	KEGG:regulation of actin cytoskeleton
+K52	GAN,PTOV1,TBCB,TMCC2,TSSC4,UBA1	Reactome:Antigen processing: Ubiquitination & Proteasome degradation
+K53	ARID3A,E2F3,E2F4,SERTAD2,TFDP1	Reactome:G1 Phase
+K54	ACD,CD46,LLGL1,POT1,TINF2	Reactome:Packaging Of Telomere Ends
+K55	ACIN1,BTBD10,DLG5,KLHL26	Reactome:Apoptotic cleavage of cellular proteins
+K56	ADAM10,DBNL,NEURL4,SH2D4A,SH3D19,SH3GL1,SH3YL1	GO:0019902:phosphatase binding;Reactome:Signaling by NOTCH3
+K57	RFC2,RFC3,RFC4,HUS1,RAD17,RAD9A,RAD9B,CHTF18,CHTF8,DSCC1,POLE,POLE3,ATF5,DR1,NFIL3,BRD4,CCNT2,CHFR,CHRAC1,FAM115A,GABBR1,HEXIM1,ITGAE,NHP2L1,POLE4,SF3B2,SF3B4,SLC29A1,SS18L1,STK19,WDR47	GO:0006260:DNA replication;GO:0003714:transcription corepressor activity
+K58	AIMP1,ATP5A1,ATP5B,ATPAF1,ATPAF2,RARS	Reactome:Cytosolic tRNA aminoacylation;Formation of ATP by chemiosmotic coupling
+K59	ADAR,HDLBP,XPO7,XPOT	GO:0051168:nuclear export
+K60	ADIPOR1,APPL1,APPL2,GATAD2A,GATAD2B,MBD3,MTA2,RAB22A	Reactome:HDACs deacetylate histones;GO:0019901:protein kinase binding
+K61	DPM1,DPM2,DPM3,PIGC,PIGH,PIGQ	Reactome:Post-translational modification: synthesis of GPI-anchored proteins
+K62	CASC3,DPH1,EIF4A3,IFITM2,IPO13,MAGOHB,PIGK,PIGT,PTCD3,RBM8A,UPF3A	GO:0051028:mRNA transport;Reactome:Attachment of GPI anchor to uPAR
+K63	EEF2,MAPKAPK3,PLCB2,TRPM7	GO:0004674:protein serine/threonine kinase activity
+K64	POMP,PSMB1,PSMB2,PSMB3,PSMB6,PSMB7	Reactome:Regulation of Apoptosis
+K65	PER2,CRY2,CSNK1E,CLOCK,ARNTL2,ANKRD6,AXIN2,EGLN1,EGLN2,EPAS1,ING4,PER3,TIMELESS,TIPIN	Reactome:Circadian Clock;Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha
+K66	BPTF,ETF1,KEAP1,MAZ	GO:0008134:transcription factor binding
+K67	ARPC1B,ARPC2,ARPC5,CFL2,CORO1B,SSH1	KEGG:regulation of actin cytoskeleton
+K68	DHX37,FNBP4,HACE1,IFT80,KIAA1199,PLXNA2,UBAP2L	Reactome:Sema3A PAK dependent Axon repulsion
+K69	C2,PSMA2,PSMA4,PSMA5,PSMA6,PSMA7	Reactome:Stabilization of p53
+K70	ARL2,ARL2BP,DEXI,TBCD,TBCE	Reactome:Post-chaperonin tubulin folding pathway
+K71	CEP57,FAM175A,INO80B,UIMC1	GO:0006281:DNA repair;GO:0017134:fibroblast growth factor binding
+K72	CLASP1,CLASP2,CLIP1,CLIP2,MAPRE2,MAPRE3	GO:0008017:microtubule binding
+K73	SCARB2,FAM160A2,HOOK1,AKTIP,HOOK3,ANK3,AP3D1,AP3S1,AP3S2,COL4A3BP,CSNK1G2,PTPN9,RTN3,SCN1B,UGCG,UVRAG,VPS16,VPS33A,VPS33B,VPS39,VPS41	GO:0007041:lysosomal transport;GO:0048490:anterograde synaptic vesicle transport
+K74	AFF1,AFF4,ARID1A,ARID1B,CBX8,DOT1L,MLLT1,MLLT10,SMARCA2,SS18	GO:0016568:chromatin modification;GO:0006366:transcription from RNA polymerase II promoter
+K75	CNPY2,ENO3,MLXIP,MTAP,MYL12B,MYLIP,PNKD	GO:0010984:regulation of lipoprotein particle clearance
+K76	ANKRD44,ATXN7L3,SECISBP2,UCHL3,USP6	GO:0016579:protein deubiquitination
+K77	PNP,POLRMT,TFAM,TFB1M,TFB2M	Reactome:Transcriptional activation of mitochondrial biogenesis
+K78	ARL6,ARL6IP5,PRAF2,SEC61A1,SEC61B,SEC62,SEC63,SERP1,SPC25	GO:0006612:protein targeting to membrane;GO:0015813:L-glutamate transport
+K79	ANG,RNASE1,RNH1,TNFRSF8,TNFSF8	GO:0090501:RNA phosphodiester bond hydrolysis;KEGG:cytokine cytokine receptor interaction
+K80	BRAP,CENPE,CENPF,CHMP2B,NUP107,NUP133	Reactome:Mitotic Prometaphase
+K81	PCSK5,PPFIBP1,PTPRK,PTPRM	GO:0050680:negative regulation of epithelial cell proliferation
+K82	BZRAP1,CENPT,DAGLB,DBI,DHX29,PISD,PPCDC,TSPO	GO:0016831:carboxy-lyase activity
+K83	CDA,DBN1,NIPBL,ZNF598	KEGG:pyrimidine metabolism
+K84	CHST15,NIP7,NOL8,RRAGA,RRAGC,RRAGD	WikiPathways:TOR Signaling
+K85	AARS,EEF1B2,HARS,HIST1H1C,NASP,TARS,TIMP1,ULK2	KEGG:aminoacyl trna biosynthesis;GO:0006333:chromatin assembly or disassembly
+K86	CD151,CD63,ITGA6,PTGFRN	Reactome:Type I hemidesmosome assembly
+K87	CD3EAP,EIF3L,MYO1C,POLR1B,POLR1C,POLR1D,POLR1E,RRN3,TAF1C	Reactome:RNA Polymerase I Promoter Escape
+K88	DPH3,EXOC2,EXOC3,SERGEF	Reactome:VxPx cargo-targeting to cilium;GO:0050709:negative regulation of protein secretion
+K89	CTSA,GLB1,LAMP2,NEU1	Reactome:Sialic acid metabolism
+K90	AMFR,GPI,PARP14,UBE2G2,UBE2J2	GO:0016874:ligase activity
+K91	MAP3K13,PRDX3,RPS6KC1,SPHK1	GO:0051092:positive regulation of NF-kappaB transcription factor activity
+K92	CEP72,DUT,SPATA2,ZNF417	KEGG:pyrimidine metabolism
+K93	DTX1,DTX3,DTX3L,PARP9,RNF126,UBE2D1	KEGG:notch signaling pathway;GO:0070936:protein K48-linked ubiquitination
+K94	ADRM1,MPG,NGLY1,PSMD6,PSMD8,RAD23B,UCHL5,ZFAND5	GO:0051603:proteolysis involved in cellular protein catabolic process
+K95	GLRX,LLPH,NFIC,ZCCHC14	GO:1902307:positive regulation of sodium ion transmembrane transport
+K96	RAB5B,RAB5C,RIN1,RIN2,RIN3	GO:0043547:positive regulation of GTPase activity;GO:0007032:endosome organization
+K97	DCLRE1C,RAD50,TERF2IP,ZNF146	GO:0000723:telomere maintenance
+K98	HERC5,NME2,NME3,RORA,ZXDC	GO:0009148:pyrimidine nucleoside triphosphate biosynthetic process

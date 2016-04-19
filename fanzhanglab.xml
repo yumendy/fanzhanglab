@@ -1,0 +1,8 @@
+<uwsgi>
+    <socket>127.0.0.1:8630</socket>
+    <chdir>/var/www/fanzhanglab</chdir>
+    <module>fanzhanglab.wsgi:application</module>
+    <processes>1</processes>
+    <daemonize>/var/log/uwsgi.log</daemonize>
+</uwsgi>
+

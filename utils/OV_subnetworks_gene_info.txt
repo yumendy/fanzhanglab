@@ -1,0 +1,20 @@
+O1	ACTR1A,APC,BICD2,CASP2,DCTN1,MAPRE1,PGAM1	GO:0044772:mitotic cell cycle phase transition
+O2	CSTF2,DDX1,ECH1,SYMPK	WikiPathways:mRNA Processing;Fatty Acid Biosynthesis
+O3	CEBPG,GTF2F2,HTATSF1,KLF5,MLLT6,PNO1,SUPT5H,TAF5	Reactome:RNA Polymerase II Pre-transcription Events
+O4	CBX3,CCDC53,DSN1,LAMC1,MIS12,NDC80,NID2,PMF1,RPGR,SMC1A	Reactome:Mitotic Prometaphase
+O5	GEMIN7,SNRPD1,SNRPD2,SNRPD3,SNRPF,SNRPG,STXBP3,WDR77	Reactome:Metabolism of non-coding RNA
+O6	DYRK2,RAD54B,TRAPPC6A,ZNF580	WikiPathways:Homologous recombination
+O7	CNKSR3,DLL1,NOTCH3,POFUT1	Reactome:Signaling by NOTCH
+O8	CCNE1,DCLRE1C,MYBL2,NBN,RAD50,ZNF622	Reactome:DNA Damage/Telomere Stress Induced Senescence
+O9	DCP2,NAGK,PSMB1,PSMB3	Reactome:Regulation of mRNA stability by proteins that bind AU-rich elements
+O10	PPFIA3,PPFIBP1,PTPRK,PTPRM	GO:0050680 negative regulation of epithelial cell proliferation;GO:0007160 cell-matrix adhesion
+O11	LOH12CR1,PCBP1,PUF60,QKI,RALY,RBM42,UGP2,WDR62	GO:0008380 RNA splicing
+O12	AKAP8,DDX5,FBL,SNRPN	BioCarta:akap95 role in mitosis and chromosome dynamics
+O13	AP4M1,CTSA,LAMP2,PRKD2,TGOLN2	GO:0000323 lytic vacuole;GO:0005802 trans-Golgi network
+O14	BRD4,C7orf25,CHFR,CHTF18,GABBR1,HEXDC,RFC4,RFC5	GO:0006260 DNA replication
+O15	ALAS1,CC2D1A,CHMP4A,CHMP4B,CTNNBL1,STAMBP	WikiPathways:Membrane Trafficking;Heme Biosynthesis
+O16	BCAP31,DLGAP4,MSN,PLP2,VAMP1,VAPA,VCAM1	KEGG:leukocyte transendothelial migration;GO:0005789 endoplasmic reticulum membrane
+O17	DDB1,ERCC2,ERCC8,GTF2H2,IFT20,KIF3B,LMO4,MAP3K10,WDTC1,ZNF675	Reactome:Nucleotide Excision Repair
+O18	FOXP3,IRF4,NFATC2,PPP3R1	KEGG:vegf signaling pathway
+O19	MZF1,SCAND1,ZNF446,ZSCAN16,ZSCAN21	GO:0000981 sequence-specific DNA binding RNA polymerase II transcription factor activity
+O20	FEN1,HUS1,POLB,RAD1,RAD9B	Reactome:Activation of ATR in response to replication stress;Removal of DNA patch containing abasic residue

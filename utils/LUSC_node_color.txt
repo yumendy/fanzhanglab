@@ -1,0 +1,14 @@
+FLT1	red
+LDLR	red
+SMPD1	red
+ADAM10	orange
+ALDH7A1	orange
+ANXA3	orange
+CTDSP1	orange
+CYTH3	orange
+DNPEP	orange
+DUT	orange
+PDHA1	orange
+PDK1	orange
+PDK2	orange
+PDK4	orange

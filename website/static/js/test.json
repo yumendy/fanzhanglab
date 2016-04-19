@@ -1,0 +1,130 @@
+[
+	{
+        "id": "K1",
+        "description": "Reactome:Resolution of Sister Chromatid Cohesion",
+		"graph" :{
+			"nodes": [
+				{
+					"name": "NSL1",
+					"color": "white"
+				},
+				{
+					"name": "ZW10",
+					"color": "white"
+				},
+				{
+					"name": "ZWINT",
+					"color": "white"
+				},
+				{
+					"name": "DSN1",
+					"color": "white"
+				},
+				{
+					"name": "MIS12",
+					"color": "white"
+				},
+				{
+					"name": "KNTC1",
+					"color": "white"
+				},
+				{
+					"name": "ZWILCH",
+					"color": "white"
+				},
+				{
+					"name": "CASC5",
+					"color": "white"
+				}
+			],
+			"links": [
+				{
+					"source": "KNTC1",
+					"target": "ZWILCH"
+				},
+				{
+					"source": "ZWILCH",
+					"target": "ZW10"
+				},
+				{
+					"source": "CASC5",
+					"target": "MIS12"
+				},
+				{
+					"source": "CASC5",
+					"target": "DSN1"
+				},
+				{
+					"source": "NSL1",
+					"target": "MIS12"
+				},
+				{
+					"source": "NSL1",
+					"target": "DSN1"
+				},
+				{
+					"source": "ZW10",
+					"target": "ZWINT"
+				},
+				{
+					"source": "ZWINT",
+					"target": "DSN1"
+				},
+				{
+					"source": "ZWINT",
+					"target": "MIS12"
+				},
+				{
+					"source": "DSN1",
+					"target": "MIS12"
+				}
+			]
+		},
+		"bar": {
+			"x":["miRNA_hsa.mir.192","methy_cg16899823","exp_DSN1","miRNA_hsa.mir.149","exp_ZWILCH","miRNA_hsa.mir.18a","exp_MIS12","exp_NSL1","CNV_ZWILCH"],
+			"y":[100,98,87,84,22,12,9,6,5]
+		}
+	},
+	{
+        "id": "K5",
+        "description" : "KEGG:fatty acid metabolism",
+		"graph" :{
+			"nodes": [
+				{
+					"name": "ACAA2",
+					"color": "white"
+				},
+				{
+					"name": "SCP2",
+					"color": "green"
+				},
+				{
+					"name": "EHHADH",
+					"color": "orange"
+				},
+				{
+					"name": "ACOX1",
+					"color": "red"
+				}
+			],
+			"links": [
+				{
+					"source": "ACAA2",
+					"target": "SCP2"
+				},
+				{
+					"source": "ACOX1",
+					"target": "SCP2"
+				},
+				{
+					"source": "EHHADH",
+					"target": "SCP2"
+				}
+			]
+		},
+		"bar" :{
+			"x":["exp_ACOX1","methy_cg00581603","exp_ACAA2","exp_EHHADH","CNV_ACAA2","CNV_ACOX1","CNV_EHHADH","CNV_SCP2","exp_SCP2","methy_cg11755245","methy_cg19198791","methy_cg26137790","miRNA_hsa.mir.92b"],
+			"y":[98,92,47,17,8,8,8,8,8,8,8,8,8]
+		}
+	}
+]

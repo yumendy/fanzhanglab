@@ -1,0 +1,103 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="ec-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>DATA VISUALIZATION</title>
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/main.css' %}" rel="stylesheet">
+    <!--[if lt IE 9]>
+      <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <header class="container-fluid">
+        <div class="row log-box">
+            <div class="col-md-5 col-md-offset-1 text-center text-white">
+                <h1 class="logo">cancer prognosis landmark</h1>
+            </div>
+        </div>
+        <div class="row title-box">
+            <div class="col-md-6 col-md-offset-6">
+                <h5>A network medicine approach to build a comprehensive atlas for the prognosis of human cancer</h5>
+            </div>
+        </div>
+    </header>
+    <div id="main">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="nav nav-tabs" role="tablist" id="nav-tab">
+                        <li class="panel-nav" role="presentation"><a href="#GBM" aria-controls="GBM" role="tab" data-toggle="tab">GBM</a></li>
+                        <li class="panel-nav" role="presentation"><a href="#KIRC" aria-controls="KIRC" role="tab" data-toggle="tab">KIRC</a></li>
+                        <li class="panel-nav" role="presentation"><a href="#LUSC" aria-controls="LUSC" role="tab" data-toggle="tab">LUSC</a></li>
+                        <li class="panel-nav" role="presentation"><a href="#OV" aria-controls="OV" role="tab" data-toggle="tab">OV</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="tab-content">
+            <div class="tab-pane" role="tabpanel" id="GBM"><div id="GBM-graph-box"></div></div>
+            <div class="tab-pane" role="tabpanel" id="KIRC"><div id="KIRC-graph-box"></div></div>
+            <div class="tab-pane" role="tabpanel" id="LUSC"><div id="LUSC-graph-box"></div></div>
+            <div class="tab-pane" role="tabpanel" id="OV"><div id="OV-graph-box"></div></div>
+        </div>
+    </div>
+
+
+    <footer class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 text-center copyright">
+                <p>Copyright © 2016 fanzhanglab</p>
+                <p>Powered by: <a href="https://www.pureweber.com/">PureWeber</a>-<a href="http://yumendy.com">Yi Duan</a></p>
+            </div>
+        </div>
+    </footer>
+    <script src="{% static 'js/jquery.min.js' %}"></script>
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    <script src="{% static 'js/echarts.min.js' %}"></script>
+    <script src="{% static 'js/template.js' %}"></script>
+    <script src="{% static 'js/main.js' %}"></script>
+    <script type="text/javascript">
+        var shown_list = [];
+        $(".panel-nav").on("shown.bs.tab", function (e) {
+                var current_name = $(e.target).html();
+                var shown_flag = false;
+                shown_list.forEach(function (item) {
+                    if(item == current_name) {
+                        shown_flag = true;
+                    }
+                });
+                if(!shown_flag) {
+                    shown_list.push(current_name);
+                    query_data(current_name);
+                }
+            });
+        function query_data(name) {
+            var area_name = name + "-graph-box";
+            $.ajax({
+            url: '/static/json/'+ name+'.json',
+            method: 'get',
+            dataType: 'json',
+            cache:true,
+            async:false,
+            success:function (msg) {
+                msg.forEach(function (group) {
+                    add_group("#"+area_name, group);
+                })
+            },
+            error: function (msg) {
+                console.log(msg);
+            }
+        })}
+        $(function () {
+            $('#nav-tab').find('a:first').tab('show');
+        })
+    </script>
+  </body>
+</html>

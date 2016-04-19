@@ -1,0 +1,10 @@
+VAMP1	red
+ALAS1	red
+GABBR1	red
+NAGK	red
+POLB	red
+PSMB1	red
+VCAM1	red
+PPP3R1	orange
+PSMB3	orange
+TRAPPC6A	orange

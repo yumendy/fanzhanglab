@@ -1,0 +1,196 @@
+miRNA_hsa.mir.192	methy_cg16899823	exp_DSN1	miRNA_hsa.mir.149	exp_ZWILCH	miRNA_hsa.mir.18a	exp_MIS12	exp_NSL1	CNV_ZWILCH
+100	98	87	84	22	12	9	6	5
+methy_cg20652787	miRNA_hsa.mir.331	miRNA_hsa.mir.215	miRNA_hsa.mir.192	miRNA_hsa.mir.425	exp_MED17	miRNA_hsa.mir.1296	exp_USP47	exp_MED20	exp_MED22
+100	100	61	50	39	37	19	7	6	5
+methy_cg09010837	miRNA_hsa.mir.149	exp_EXT2	exp_EXT1	exp_TLR6
+100	95	55	17	10
+miRNA_hsa.mir.20a	methy_cg27558283	miRNA_hsa.mir.215	exp_MYO9B	miRNA_hsa.mir.21	exp_C1QC	exp_ARFGEF2	exp_FKBP2	miRNA_hsa.mir.149	exp_ARFGEF1	miRNA_hsa.mir.335
+99	92	87	78	42	24	20	16	12	6	5
+exp_ACOX1	methy_cg00581603	exp_ACAA2	exp_EHHADH	CNV_ACAA2	CNV_ACOX1	CNV_EHHADH	CNV_SCP2	exp_SCP2	methy_cg11755245	methy_cg19198791	methy_cg26137790	miRNA_hsa.mir.92b
+98	92	47	17	8	8	8	8	8	8	8	8	8
+miRNA_hsa.mir.21	miRNA_hsa.mir.155	miRNA_hsa.mir.16.1	miRNA_hsa.mir.30c.1	exp_SAP18	exp_MBD5	exp_NAT6	exp_KIAA1549	miRNA_hsa.mir.93	miRNA_hsa.mir.20a	exp_SLC25A38	miRNA_hsa.mir.30a	miRNA_hsa.mir.324	exp_CAPZB	miRNA_hsa.mir.103.1	exp_ANXA3
+98	89	87	86	57	41	29	26	24	21	14	7	7	6	6	5
+exp_BGLAP	exp_CSTA	exp_CSTB	CNV_CSTB	exp_CTSH	methy_cg04356968	CNV_BGLAP	CNV_CSTA	exp_GGCX	CNV_CTSH	methy_cg26928972	CNV_GGCX	methy_cg12548899	methy_cg27559595
+100	94	90	28	18	14	12	9	8	6	6	5	5	5
+methy_cg17694495	miRNA_hsa.mir.155	miRNA_hsa.mir.181a.1	miRNA_hsa.mir.192	exp_RAD21	miRNA_hsa.mir.21	miRNA_hsa.mir.215	exp_STAG1
+99	99	25	22	8	6	6	5
+exp_RELL2	exp_RELT	exp_SLC12A6	methy_cg12367789	exp_RELL1	exp_SLC12A2	CNV_SLC12A2	CNV_RELT	CNV_RELL1
+100	89	41	35	32	31	17	15	5
+miRNA_hsa.mir.21	miRNA_hsa.mir.34a	methy_cg22351426	miRNA_hsa.mir.130b	exp_EMILIN1	exp_MTMR6	methy_cg24867566
+100	100	20	14	13	10	9
+exp_RCHY1	miRNA_hsa.mir.24.2	exp_PLAGL2	methy_cg08072480	miRNA_hsa.mir.24.1	exp_GORAB	exp_SCYL1
+92	88	71	67	57	46	6
+exp_CDC23	methy_cg23265604	exp_CDC16	exp_ANAPC7	exp_ANAPC10	miRNA_hsa.mir.23b	miRNA_hsa.mir.30a	exp_BUB1B	miRNA_hsa.mir.188	miRNA_hsa.mir.215
+100	100	12	11	9	6	6	5	5	5
+methy_cg17754769	exp_ARHGEF12	exp_LPAR1	CNV_PLXNB2	exp_LPAR2	CNV_ARHGEF12	methy_cg25822264	CNV_LPAR1	CNV_LPAR2	methy_cg15690696	exp_PLXNB2
+100	94	63	54	32	27	23	14	14	14	5
+exp_DERL3	miRNA_hsa.mir.30a	exp_DERL1	miRNA_hsa.mir.192	exp_DERL2	methy_cg21662156	miRNA_hsa.mir.26b
+100	97	79	51	48	26	17
+exp_SCMH1	exp_LYPLA2	methy_cg11906176	exp_BNIP3L	exp_STEAP3	miRNA_hsa.mir.23b	miRNA_hsa.let.7e	exp_DKC1	miRNA_hsa.mir.615	miRNA_hsa.mir.30a	miRNA_hsa.mir.10b	methy_cg02386244	miRNA_hsa.mir.532	miRNA_hsa.mir.221	CNV_BNIP3L	exp_BNIP3	CNV_LYPLA2	exp_TMEM11
+96	86	59	49	49	47	25	20	19	18	17	14	13	12	9	6	5	5
+exp_ABCD3	methy_cg14964658	miRNA_hsa.mir.10a	miRNA_hsa.mir.21	miRNA_hsa.mir.124.2	exp_ABCD1	miRNA_hsa.mir.124.1	exp_PEX19	miRNA_hsa.mir.10b
+97	94	85	64	47	25	21	6	6
+methy_cg11759480	exp_HCST	exp_MICA	exp_KLRK1	miRNA_hsa.mir.9.2	miRNA_hsa.mir.335	CNV_HCST	CNV_KLRK1	CNV_MICA	exp_MICB	methy_cg11956825	CNV_MICB	methy_cg14110548	methy_cg21584184
+99	96	92	53	53	41	22	12	12	12	11	10	9	9
+exp_BUB3	exp_CENPA	miRNA_hsa.let.7e	exp_RHOC	exp_TPM1	miRNA_hsa.mir.615	exp_CIT	exp_PARP2	miRNA_hsa.mir.106b
+100	79	46	24	18	16	11	8	7
+methy_cg15190077	exp_FHOD1	miRNA_hsa.mir.149	exp_TNKS	CNV_FHOD1	exp_TNKS1BP1	exp_LNPEP	miRNA_hsa.mir.18a	CNV_LNPEP	miRNA_hsa.mir.361	methy_cg11191571
+100	87	71	16	15	11	10	10	9	9	5
+exp_FBF1	exp_ACCS	exp_IFT57	exp_IFT20	CNV_IFT20	CNV_IFT57
+100	99	31	14	12	5
+miRNA_hsa.mir.155	exp_ANXA5	exp_FDFT1	exp_SHPRH	miRNA_hsa.mir.215	exp_LPP	miRNA_hsa.mir.760	miRNA_hsa.mir.124.3	exp_TJP2	exp_SCRIB	miRNA_hsa.mir.124.2	miRNA_hsa.mir.193b	methy_cg00003173
+95	89	75	73	66	50	50	43	31	21	9	9	5
+exp_FAM96A	methy_cg03997764	exp_CIAO1	miRNA_hsa.mir.155	CNV_FAM96A	CNV_CIAO1	exp_FAM96B	exp_CCDC7	CNV_CCDC7	CNV_FAM96B	methy_cg15884411
+98	98	79	79	69	68	64	52	42	26	5
+miRNA_hsa.mir.155	methy_cg01655607	exp_COG1	exp_COG3	CNV_COG4	exp_COG2	CNV_COG3	exp_COG4	CNV_COG2	exp_COG5	CNV_COG5	CNV_COG1	exp_COG7	methy_cg14029891	methy_cg18379624	methy_cg21602179	CNV_COG7	methy_cg10141839	methy_cg12052812	miRNA_hsa.mir.335
+100	93	29	26	22	17	16	16	15	15	12	11	10	9	9	9	8	8	8	8
+exp_NEO1	exp_ADA	miRNA_hsa.mir.27b	CNV_ADORA2B	exp_ADORA2B	miRNA_hsa.mir.590	methy_cg13148126	miRNA_hsa.mir.148b	CNV_NEO1	exp_NTN1
+100	97	52	42	37	36	35	29	21	12
+exp_POLR2E	methy_cg10055505	exp_POLR2I	miRNA_hsa.mir.149	exp_HELZ	CNV_POLR2B	exp_POLR2H	CNV_POLR2E	exp_POLR2K	CNV_SMYD3	exp_POLR2B
+100	100	89	65	64	25	25	22	18	8	6
+exp_COL5A1	exp_LAMB1	exp_ACHE	exp_LGALS3BP	exp_ATXN7L2	exp_BMP1	methy_cg25251095	exp_PPP2R3A	exp_COL6A1	miRNA_hsa.mir.760	exp_COLQ	miRNA_hsa.mir.16.2	miRNA_hsa.mir.744
+99	86	60	46	32	21	20	17	13	12	10	6	6
+exp_NAA15	exp_NAA16	CNV_NAA15	exp_NAA10	CNV_NAA16	exp_RPL26	CNV_NAA10	methy_cg04323622	CNV_RPL26	methy_cg00434413	methy_cg05401522	methy_cg25565098
+100	93	85	81	78	76	72	67	65	64	58	53
+miRNA_hsa.mir.16.1	miRNA_hsa.let.7b	exp_PRKRA	miRNA_hsa.mir.103.1	miRNA_hsa.mir.192	methy_cg03660326	miRNA_hsa.mir.130b	miRNA_hsa.mir.18a	miRNA_hsa.mir.374a	exp_DICER1	miRNA_hsa.mir.221	miRNA_hsa.mir.16.2	exp_PIWIL4	miRNA_hsa.mir.296	exp_TARBP2
+94	91	79	74	57	38	26	21	20	14	14	12	9	7	6
+miRNA_hsa.mir.222	exp_GLMN	methy_cg21226534	exp_SPTBN1	miRNA_hsa.mir.3200	exp_PHYH	miRNA_hsa.mir.193b	miRNA_hsa.mir.23a	exp_SPTBN2	exp_STX2	miRNA_hsa.mir.1301	exp_NR3C2	miRNA_hsa.mir.124.1
+98	89	46	42	24	20	16	15	14	8	8	6	6
+exp_CSDE1	miRNA_hsa.mir.18a	methy_cg24352075	miRNA_hsa.mir.10b	exp_HJURP	miRNA_hsa.mir.103.1	miRNA_hsa.mir.103.2	miRNA_hsa.mir.16.1	miRNA_hsa.mir.340	miRNA_hsa.mir.423
+100	66	53	32	26	26	23	10	7	6
+exp_ERAP1	exp_LIFR	miRNA_hsa.mir.26a.1	exp_IL6R	miRNA_hsa.mir.125a	methy_cg24062706	exp_IL6ST	exp_CNTF	CNV_CTF1	exp_LIF
+98	95	95	79	65	27	24	9	6	5
+miRNA_hsa.mir.222	miRNA_hsa.mir.16.1	miRNA_hsa.mir.16.2	CNV_PAIP1	miRNA_hsa.mir.21	miRNA_hsa.mir.23b	miRNA_hsa.mir.484	miRNA_hsa.let.7e
+100	99	23	7	7	7	7	5
+exp_C17orf70	exp_FANCB	exp_F3	CNV_C17orf70	methy_cg15664967	CNV_F3	exp_FANCL	CNV_FANCB	methy_cg04864149
+92	90	87	14	14	7	6	5	5
+methy_cg10354495	miRNA_hsa.mir.320b.2	miRNA_hsa.mir.215	miRNA_hsa.mir.21	exp_EPM2A	miRNA_hsa.mir.423	miRNA_hsa.mir.192
+100	99	24	21	14	9	5
+exp_POP5	exp_RPP38	miRNA_hsa.mir.92a.1	exp_RPP25	miRNA_hsa.mir.326	exp_RPP21	exp_POP4	exp_RPP30	methy_cg24601517	exp_POP7
+99	94	75	55	40	38	37	19	10	6
+exp_TRIM41	exp_LSM11	exp_LSM10	methy_cg22238717	exp_SLBP	exp_ZNF473	CNV_LSM10	CNV_SLBP	exp_ZNF202	CNV_ZNF473	CNV_TRIM41	methy_cg08709116	CNV_LSM11	CNV_ZNF202	methy_cg04615654	methy_cg24177093	methy_cg14126863	methy_cg21441505	miRNA_hsa.mir.877
+90	81	65	58	51	47	44	44	44	43	40	35	30	27	8	7	6	6	6
+methy_cg14660784	exp_ATG16L1	CNV_ATG10	exp_ATG12	exp_ATG5	exp_ATG10	miRNA_hsa.mir.30b	CNV_ATG16L1	methy_cg18908681	CNV_ATG12	CNV_ATG5
+100	91	90	72	68	67	46	12	11	9	8
+miRNA_hsa.mir.130b	miRNA_hsa.mir.296	miRNA_hsa.mir.93	exp_DCAF8	miRNA_hsa.mir.21	exp_PARP11	miRNA_hsa.mir.26b	exp_FAM60A
+97	94	94	21	17	14	13	10
+miRNA_hsa.mir.185	methy_cg17675311	exp_SMPD1	exp_ASAH1	miRNA_hsa.mir.192	exp_CORO2B	methy_cg06865273	methy_cg17121955	CNV_SMPD1	CNV_CORO2B	exp_TSC22D1	CNV_ASAH1	methy_cg12449974
+98	79	53	47	45	30	21	20	19	17	16	15	12
+miRNA_hsa.mir.107	miRNA_hsa.mir.484	miRNA_hsa.mir.192	miRNA_hsa.mir.335	miRNA_hsa.mir.92a.1	exp_INSIG2	methy_cg20914370	miRNA_hsa.mir.181b.2
+97	92	62	37	24	8	8	5
+exp_FBXW8	methy_cg01861509	exp_PLXNB3	methy_cg14024637	methy_cg24905739	CNV_BTBD3	exp_CUL7	CNV_FBXW8	CNV_PLXNB3	exp_BTBD3	exp_SPOCK2	CNV_CUL7
+100	99	40	38	38	37	35	34	34	31	20	18
+miRNA_hsa.mir.16.1	exp_DOHH	exp_DHPS	miRNA_hsa.mir.16.2	miRNA_hsa.mir.99a	exp_EIF5A	methy_cg25503001	CNV_DHPS	CNV_EIF5A	exp_EIF5A2	miRNA_hsa.mir.146b	methy_cg02970077
+100	93	52	52	17	15	15	14	10	10	10	7
+exp_HNRNPL	exp_RCOR1	miRNA_hsa.mir.22	miRNA_hsa.mir.615	miRNA_hsa.mir.335	exp_HMG20B	methy_cg22905550	miRNA_hsa.mir.30c.1
+100	87	84	23	13	9	5	5
+exp_TOMM22	methy_cg00665832	exp_PPHLN1	exp_TOMM40
+100	99	18	10
+exp_C2orf44	methy_cg19995539	exp_GNPAT	miRNA_hsa.mir.124.1	methy_cg20777176	exp_CBR3	exp_AGPS	CNV_C2orf44	exp_RAB35	CNV_CBR3
+100	95	88	71	64	63	23	17	12	7
+miRNA_hsa.mir.193b	methy_cg13415434	miRNA_hsa.mir.92a.1	exp_G2E3	miRNA_hsa.mir.186	miRNA_hsa.mir.192	miRNA_hsa.mir.197
+98	91	82	80	48	39	15
+exp_BAG4	exp_TNFRSF12A	methy_cg00031162	exp_TNFSF12	exp_AGGF1	exp_TNFRSF25	CNV_TNFRSF12A	CNV_AGGF1	methy_cg02988775
+99	90	57	26	25	14	12	11	5
+exp_ATF6	exp_MBTPS1	exp_ATF6B	exp_MBTPS2	methy_cg07795513	methy_cg01336098	CNV_ATF6B	CNV_MBTPS1	methy_cg02248325	CNV_ATF6	methy_cg23782145	CNV_MBTPS2
+95	95	66	60	58	54	46	36	36	24	16	15
+miRNA_hsa.mir.24.1	exp_RANGRF	exp_FAM50B	miRNA_hsa.mir.124.1	exp_CHKA	miRNA_hsa.mir.124.2	methy_cg15877192	miRNA_hsa.mir.26a.1	exp_RANBP3
+100	97	82	62	30	17	15	9	5
+methy_cg16616325	miRNA_hsa.mir.26b	miRNA_hsa.mir.17	miRNA_hsa.mir.130b	miRNA_hsa.mir.16.2	miRNA_hsa.mir.20a	miRNA_hsa.mir.21	exp_C1D	miRNA_hsa.mir.142	miRNA_hsa.mir.215	exp_MRFAP1	exp_MORF4L1
+97	97	92	40	31	11	10	9	9	9	6	5
+exp_CDC42BPA	exp_LIMK2	exp_MYL9	CNV_CDC42BPA	CNV_LIMK2	exp_PPP1R12C	CNV_MYL9
+100	80	60	36	13	10	8
+exp_PTOV1	methy_cg08341987	exp_TSSC4	exp_TBCB	miRNA_hsa.let.7b	miRNA_hsa.mir.30a	miRNA_hsa.mir.17	exp_TMCC2	methy_cg26681081	exp_GAN	exp_UBA1	CNV_PTOV1	CNV_GAN	CNV_TSSC4
+96	56	44	38	35	34	32	26	14	12	11	7	6	5
+miRNA_hsa.let.7d	miRNA_hsa.mir.615	miRNA_hsa.mir.24.1	miRNA_hsa.mir.149	miRNA_hsa.mir.141	miRNA_hsa.mir.33a	miRNA_hsa.mir.30c.2	miRNA_hsa.mir.203	exp_E2F3	exp_ARID3A	miRNA_hsa.mir.375	miRNA_hsa.mir.183	miRNA_hsa.mir.23b	exp_TFDP1	miRNA_hsa.mir.200b	exp_SERTAD2
+100	93	90	67	65	64	51	47	41	31	18	16	15	12	6	5
+methy_cg23564255	miRNA_hsa.mir.340	miRNA_hsa.mir.186	exp_ACD	miRNA_hsa.mir.181a.1	miRNA_hsa.mir.24.1	miRNA_hsa.mir.520b	exp_CD46	miRNA_hsa.mir.520e	miRNA_hsa.mir.93	miRNA_hsa.mir.421	exp_POT1	CNV_LLGL1	CNV_POT1	exp_LLGL1	miRNA_hsa.mir.19b.2	CNV_ACD	CNV_CD46	CNV_TINF2	exp_TINF2	methy_cg01498655	methy_cg08527328	methy_cg15945417	methy_cg19552044	miRNA_hsa.mir.19b.1	miRNA_hsa.mir.361
+89	74	60	59	46	33	33	31	22	18	15	14	13	13	13	13	12	12	12	12	12	12	12	12	12	12
+methy_cg02860749	exp_BTBD10	exp_DLG5	exp_KLHL26	methy_cg08540851	exp_ACIN1	CNV_BTBD10	CNV_DLG5	CNV_KLHL26	methy_cg02213663	CNV_ACIN1
+100	99	87	80	72	46	40	39	26	10	5
+exp_SH3GL1	miRNA_hsa.mir.124.1	miRNA_hsa.mir.124.2	miRNA_hsa.mir.16.2	exp_NEURL4	methy_cg13133084	exp_SH3YL1	exp_SH2D4A	miRNA_hsa.mir.16.1	exp_SH3D19	methy_cg21949518	exp_ADAM10	exp_DBNL	CNV_SH3D19	CNV_NEURL4	methy_cg12622242	CNV_ADAM10	methy_cg22729910	CNV_DBNL	CNV_SH2D4A	CNV_SH3GL1
+93	86	76	69	52	50	49	47	43	42	42	38	34	33	28	28	24	11	9	9	6
+miRNA_hsa.mir.92a.1	exp_FAM115A	miRNA_hsa.mir.16.1	miRNA_hsa.mir.375	miRNA_hsa.mir.17	exp_HUS1	exp_CHRAC1	exp_DSCC1	exp_ITGAE	exp_BRD4	exp_CCNT2	miRNA_hsa.mir.222
+100	95	87	63	54	44	24	15	11	8	7	7
+miRNA_hsa.mir.1301	miRNA_hsa.mir.101.2	miRNA_hsa.let.7f.1	miRNA_hsa.mir.151	methy_cg06001836	miRNA_hsa.mir.92a.2	CNV_ATPAF2	miRNA_hsa.mir.18a	miRNA_hsa.mir.92a.1	miRNA_hsa.mir.17	miRNA_hsa.mir.93	miRNA_hsa.mir.101.1
+96	86	80	24	22	13	12	12	10	6	6	5
+miRNA_hsa.mir.101.2	miRNA_hsa.mir.16.2	miRNA_hsa.mir.103.1	exp_XPO7	miRNA_hsa.mir.34a	miRNA_hsa.mir.92b	miRNA_hsa.mir.101.1	miRNA_hsa.mir.484	methy_cg01033646	miRNA_hsa.mir.16.1	miRNA_hsa.mir.186
+97	96	77	50	31	29	11	9	8	8	5
+miRNA_hsa.mir.32	miRNA_hsa.mir.340	miRNA_hsa.mir.128.1	miRNA_hsa.mir.21	miRNA_hsa.mir.423	miRNA_hsa.mir.331	miRNA_hsa.mir.186	miRNA_hsa.mir.192	exp_APPL1	exp_MTA2	exp_ADIPOR1	miRNA_hsa.mir.193b	exp_GATAD2B	miRNA_hsa.mir.215	miRNA_hsa.mir.590	exp_MBD3	exp_GATAD2A
+93	93	81	49	48	47	44	37	33	27	25	22	15	12	8	7	5
+exp_DPM1	exp_PIGC	exp_DPM2	methy_cg19977912	miRNA_hsa.mir.26b	CNV_DPM1	exp_DPM3	exp_PIGH	CNV_PIGH	CNV_PIGC	exp_PIGQ
+84	81	70	63	63	52	36	23	22	11	6
+miRNA_hsa.mir.128.2	exp_EIF4A3	miRNA_hsa.mir.34a	exp_IPO13	miRNA_hsa.mir.378	exp_PIGT	miRNA_hsa.mir.222	exp_DPH1	exp_CASC3	miRNA_hsa.mir.182	miRNA_hsa.mir.16.2	methy_cg09833350	miRNA_hsa.mir.128.1
+93	79	67	66	57	48	33	18	14	14	12	5	5
+miRNA_hsa.mir.10a	miRNA_hsa.mir.324	exp_MAPKAPK3	exp_PLCB2	methy_cg04135558	exp_EEF2	exp_TRPM7	miRNA_hsa.mir.30a	CNV_EEF2	CNV_PLCB2	CNV_MAPKAPK3	CNV_TRPM7	methy_cg01942884	methy_cg16543027	methy_cg27200113	miRNA_hsa.mir.21
+100	51	50	45	45	38	32	28	25	25	24	14	14	14	14	13
+exp_PSMB2	methy_cg13403636	miRNA_hsa.mir.10a	exp_PSMB3	exp_POMP	CNV_PSMB6	miRNA_hsa.let.7c	exp_PSMB1	CNV_PSMB1	exp_PSMB6	CNV_POMP	CNV_PSMB3	methy_cg01545575
+86	61	49	46	23	13	11	9	8	6	5	5	5
+miRNA_hsa.mir.30c.1	exp_EGLN2	miRNA_hsa.mir.103.1	exp_ARNTL2	exp_AXIN2	exp_ANKRD6	miRNA_hsa.mir.93	miRNA_hsa.mir.149	exp_CRY2	exp_PER2	miRNA_hsa.mir.185	exp_CLOCK	exp_ING4	miRNA_hsa.mir.130b
+99	97	87	65	44	42	42	21	16	15	10	5	5	5
+miRNA_hsa.mir.378	exp_KEAP1	methy_cg09291817	CNV_BPTF	methy_cg16182055	miRNA_hsa.mir.200a	miRNA_hsa.mir.33b	exp_ETF1	exp_BPTF	CNV_MAZ	CNV_KEAP1	exp_MAZ
+99	92	70	63	55	51	40	22	20	13	8	5
+exp_CFL2	miRNA_hsa.mir.30a	methy_cg22024112	miRNA_hsa.mir.10a	miRNA_hsa.mir.155	exp_ARPC2	miRNA_hsa.mir.125a	miRNA_hsa.mir.124.2	miRNA_hsa.mir.124.1	CNV_ARPC5	miRNA_hsa.mir.124.3	exp_ARPC5	exp_ARPC1B	exp_CORO1B	exp_SSH1	CNV_ARPC2	CNV_CORO1B	methy_cg09541468
+66	62	61	52	50	47	34	32	30	23	21	20	13	9	8	6	5	5
+miRNA_hsa.mir.15a	exp_DHX37	exp_KIAA1199	exp_IFT80	miRNA_hsa.mir.16.1	miRNA_hsa.mir.193b	methy_cg03587150	miRNA_hsa.mir.16.2	exp_PLXNA2	exp_FNBP4	CNV_IFT80	CNV_FNBP4
+97	89	89	87	77	67	36	24	17	9	8	6
+exp_PSMA6	exp_PSMA2	CNV_PSMA5	miRNA_hsa.mir.99a	methy_cg13475699	CNV_PSMA2	exp_PSMA5	exp_C2	exp_PSMA4	exp_PSMA7	CNV_PSMA4	CNV_C2
+99	67	60	55	50	30	26	20	13	9	8	7
+methy_cg18036707	exp_TBCD	miRNA_hsa.mir.16.1	exp_DEXI	methy_cg05141159	exp_ARL2BP	miRNA_hsa.mir.16.2	CNV_TBCD	CNV_DEXI	exp_ARL2	CNV_ARL2	CNV_ARL2BP	CNV_TBCE	exp_TBCE	methy_cg00747160	methy_cg21944567	methy_cg25055744	miRNA_hsa.mir.92a.1
+96	79	42	19	13	12	11	10	8	8	6	6	5	5	5	5	5	5
+exp_CEP57	miRNA_hsa.mir.421	exp_FAM175A	CNV_INO80B	methy_cg04624363	exp_INO80B
+100	99	42	31	28	5
+exp_MAPRE2	exp_CLIP2	methy_cg11153596	exp_CLASP1	miRNA_hsa.mir.103.1	miRNA_hsa.mir.16.1	exp_CLIP1	miRNA_hsa.mir.210	miRNA_hsa.mir.16.2	exp_CLASP2	miRNA_hsa.mir.93
+99	96	81	54	45	41	19	19	18	12	10
+exp_AKTIP	exp_FAM160A2	miRNA_hsa.mir.335	miRNA_hsa.let.7b	miRNA_hsa.mir.378	exp_SCN1B	miRNA_hsa.mir.18a
+100	84	77	54	11	10	9
+miRNA_hsa.mir.16.2	exp_MLLT10	miRNA_hsa.mir.18a	miRNA_hsa.mir.421	exp_ARID1B	miRNA_hsa.mir.101.1	miRNA_hsa.mir.92b	miRNA_hsa.mir.186	miRNA_hsa.mir.331	miRNA_hsa.mir.19b.2	exp_MLLT1
+98	73	63	61	58	54	29	20	18	7	6
+miRNA_hsa.mir.98	exp_MYLIP	exp_CNPY2	exp_MTAP	miRNA_hsa.mir.421	CNV_MLXIP	exp_MYL12B	methy_cg04041474	miRNA_hsa.mir.26b	exp_ENO3	exp_MLXIP
+100	73	57	13	11	10	9	7	6	5	5
+miRNA_hsa.mir.142	exp_UCHL3	miRNA_hsa.mir.155	exp_ANKRD44	exp_ATXN7L3	methy_cg06325889	exp_SECISBP2
+100	87	65	40	35	30	10
+miRNA_hsa.mir.15a	exp_PNP	miRNA_hsa.mir.186	methy_cg05721645	exp_TFAM	miRNA_hsa.mir.16.1	miRNA_hsa.mir.16.2	miRNA_hsa.mir.484	exp_TFB1M	exp_POLRMT	CNV_PNP	CNV_POLRMT
+87	71	58	51	25	19	17	15	12	9	7	5
+exp_SERP1	miRNA_hsa.mir.133a.1	methy_cg15237047	exp_ARL6IP5	exp_SEC62	exp_PRAF2
+100	100	68	48	25	15
+methy_cg27631256	exp_RNH1	exp_TNFRSF8	exp_RNASE1	exp_ANG	CNV_TNFRSF8
+98	80	73	18	16	7
+exp_CENPE	exp_NUP107	exp_BRAP	exp_CENPF	exp_CHMP2B
+100	75	43	41	37
+miRNA_hsa.mir.335	miRNA_hsa.mir.149	methy_cg12412030	exp_PCSK5	miRNA_hsa.mir.9.1	exp_PPFIBP1	miRNA_hsa.mir.9.2	exp_PTPRK	CNV_PCSK5	CNV_PPFIBP1	CNV_PTPRK	CNV_PTPRM	exp_PTPRM	methy_cg04878697	methy_cg13438337	methy_cg25578225	miRNA_hsa.mir.9.3
+100	52	51	26	24	16	12	10	7	7	7	7	7	7	7	7	7
+exp_PPCDC	exp_BZRAP1	exp_DAGLB	exp_CENPT	exp_DHX29	CNV_DBI	exp_PISD	CNV_PISD	CNV_BZRAP1	methy_cg19697512	exp_DBI	CNV_PPCDC	CNV_TSPO
+87	76	66	59	48	41	34	24	23	23	18	10	6
+miRNA_hsa.mir.18a	exp_CDA	miRNA_hsa.mir.186	methy_cg03082468	CNV_CDA	exp_NIPBL	miRNA_hsa.mir.21	CNV_ZNF598	exp_ZNF598	miRNA_hsa.mir.155	methy_cg26407544	CNV_DBN1	CNV_NIPBL	exp_DBN1
+100	85	65	27	20	14	12	7	7	7	6	5	5	5
+exp_RRAGA	exp_RRAGC	miRNA_hsa.mir.30a	miRNA_hsa.mir.615	exp_CHST15	CNV_NOL8	exp_NOL8	CNV_RRAGC	methy_cg10675614	CNV_CHST15	exp_NIP7	CNV_RRAGA	CNV_NIP7	methy_cg14759249	exp_RRAGD	methy_cg09824990
+87	83	76	59	44	42	39	38	37	36	36	22	12	7	6	5
+exp_TARS	methy_cg17447791	miRNA_hsa.mir.26a.1	exp_HARS	miRNA_hsa.mir.324	miRNA_hsa.mir.29a	miRNA_hsa.mir.149	CNV_EEF1B2	exp_HIST1H1C	exp_NASP	miRNA_hsa.mir.183	miRNA_hsa.mir.24.1	miRNA_hsa.mir.29b.2	miRNA_hsa.mir.124.1	CNV_NASP	exp_AARS	exp_TIMP1	CNV_HIST1H1C	CNV_HARS
+97	93	72	60	33	27	25	24	24	21	20	14	14	13	12	11	10	9	7
+exp_CD63	exp_ITGA6	miRNA_hsa.mir.30a	miRNA_hsa.mir.34a	exp_CD151	CNV_CD151	CNV_CD63	CNV_ITGA6	methy_cg20963995	CNV_PTGFRN	exp_PTGFRN	methy_cg02398191	methy_cg03295096	methy_cg03599547	miRNA_hsa.mir.24.1
+99	80	29	28	10	7	7	7	7	6	6	6	6	6	6
+methy_cg20315643	exp_POLR1B	miRNA_hsa.mir.7.2	exp_RRN3	miRNA_hsa.mir.149	miRNA_hsa.mir.340	exp_POLR1D	exp_EIF3L	exp_POLR1C	CNV_RRN3	exp_CD3EAP
+100	65	65	58	48	43	34	25	21	15	12
+methy_cg10102256	exp_EXOC3	exp_EXOC2	CNV_EXOC2	exp_SERGEF	exp_DPH3	CNV_DPH3	CNV_EXOC3	methy_cg00822591	methy_cg08236499	methy_cg12612527	CNV_SERGEF	miRNA_hsa.mir.24.1
+97	76	65	47	40	37	32	28	28	28	28	27	27
+miRNA_hsa.let.7b	methy_cg27645345	exp_CTSA	miRNA_hsa.mir.20a	exp_GLB1	exp_LAMP2	CNV_LAMP2	exp_NEU1	CNV_CTSA	methy_cg05052031	methy_cg16946767	CNV_GLB1	CNV_NEU1	methy_cg09638001	miRNA_hsa.mir.155
+95	76	52	48	43	36	28	26	25	25	25	24	23	23	16
+exp_UBE2G2	methy_cg08643618	miRNA_hsa.mir.1296	exp_AMFR	exp_GPI	CNV_UBE2G2	CNV_GPI	exp_PARP14	CNV_AMFR	exp_UBE2J2	CNV_PARP14	methy_cg08740522	methy_cg22972380	methy_cg19214477
+97	96	93	75	63	62	52	47	26	24	19	11	9	8
+exp_RPS6KC1	miRNA_hsa.mir.15a	exp_MAP3K13	miRNA_hsa.mir.383	miRNA_hsa.mir.181a.2	miRNA_hsa.mir.15b	miRNA_hsa.mir.320a	CNV_PRDX3	exp_PRDX3	methy_cg11750080
+100	99	86	71	70	18	15	10	9	9
+miRNA_hsa.mir.425	miRNA_hsa.mir.744	exp_SPATA2	exp_ZNF417	CNV_CEP72	miRNA_hsa.mir.30a	methy_cg18236936	exp_DUT	exp_CEP72	CNV_DUT	CNV_SPATA2	CNV_ZNF417	methy_cg03523363
+100	99	32	23	22	20	19	16	15	14	10	5	5
+miRNA_hsa.mir.124.1	exp_PARP9	exp_RNF126	exp_DTX1	methy_cg24631950	CNV_UBE2D1	CNV_PARP9	exp_DTX3	exp_DTX3L	methy_cg11787160	CNV_DTX1	CNV_RNF126	CNV_DTX3	CNV_DTX3L	exp_UBE2D1
+100	99	98	88	79	49	33	33	32	20	16	15	13	11	10
+miRNA_hsa.mir.423	miRNA_hsa.mir.196a.2	miRNA_hsa.mir.219.1	miRNA_hsa.mir.219.2	exp_UCHL5	exp_ADRM1	miRNA_hsa.mir.331	miRNA_hsa.mir.155	exp_PSMD6	methy_cg14290468	miRNA_hsa.mir.106b	miRNA_hsa.mir.186
+99	84	39	23	22	21	15	13	9	9	5	5
+miRNA_hsa.mir.15b	miRNA_hsa.mir.30c.2	exp_LLPH	miRNA_hsa.mir.130b	miRNA_hsa.mir.24.2
+100	65	41	32	7
+exp_RAB5C	miRNA_hsa.mir.19b.2	miRNA_hsa.mir.93	exp_RIN1	miRNA_hsa.mir.124.2	miRNA_hsa.mir.760	miRNA_hsa.mir.19b.1
+99	98	26	16	15	8	6
+exp_DCLRE1C	miRNA_hsa.let.7b	methy_cg25942691	miRNA_hsa.mir.16.1	exp_RAD50	CNV_DCLRE1C	exp_TERF2IP
+99	93	61	16	9	8	5
+miRNA_hsa.mir.125a	exp_HERC5	exp_NME3	exp_NME2	miRNA_hsa.mir.335	exp_RORA	CNV_NME3	CNV_RORA	exp_ZXDC
+86	81	67	13	8	6	5	5	5

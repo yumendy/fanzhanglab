@@ -1,0 +1,77 @@
+header {
+    background-color: #030303;
+    height: 130px;
+    -webkit-box-shadow: 0 0 5px #000000;
+    -moz-box-shadow: 0 0 5px #000000;
+    box-shadow: 0 0 5px #000000;
+}
+
+.text-white {
+    color: white;
+}
+
+.log-box {
+    margin-top: 5px;
+    height: 85px;
+    background: -webkit-linear-gradient(left,#0f1e2e,#26473f,#2e5950,#2f5b54,#2e5950,#2f5b54,#2e5950,#2f5b54,#2e5950,#2f5b54);
+    background: -o-linear-gradient(left,#0f1e2e,#26473f,#2e5950,#2f5b54,#2e5950,#2f5b54,#2e5950,#2f5b54,#2e5950,#2f5b54);
+    background: -moz-linear-gradient(left,#0f1e2e,#26473f,#2e5950,#2f5b54,#2e5950,#2f5b54,#2e5950,#2f5b54,#2e5950,#2f5b54);
+    background: linear-gradient(to right,#0f1e2e,#26473f,#2e5950,#2f5b54,#2e5950,#2f5b54,#2e5950,#2f5b54,#2e5950,#2f5b54);
+}
+
+.logo {
+    font-size: 32pt;
+}
+
+body {
+    background-color: #f0f0f0;
+}
+
+#main {
+    min-height: 700px;
+}
+
+.title-box {
+    height: 40px;
+    background-color: #e1e1e1;
+    padding-top: 3px;
+}
+
+.group-header {
+    height: 130px;
+    background-color: #fbfbfb;
+    padding-top: 50px;
+}
+
+.group-header-text p{
+    color: #26473f;
+}
+
+.group-header-title {
+    font-weight: bolder;
+}
+
+.group-graph {
+    height: 400px;
+    padding-top: 20px;
+}
+
+.graph-area {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+footer {
+    background-color: #000000;
+    color: #ffffff;
+    height: 80px;
+    padding-top: 20px;
+}
+
+.copyright p a{
+    color: #999999;
+}
+
+#nav-tab {
+    margin-top: 10px;
+}
